@@ -100,4 +100,7 @@ map  <S-Right> :tabn<CR>
 map  <S-Left> :tabp<CR>
 map  <C-n> :tabnew<CR>
 
-highlight Folded ctermbg=red
+highlight Folded ctermbg=DarkGrey  ctermfg=White
+
+" The GOAT
+Plugin 'avanzzzi/behave.vim'
