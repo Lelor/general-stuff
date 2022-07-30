@@ -24,7 +24,7 @@ filetype plugin indent on    " required
 set tabstop=4
 set shiftwidth=4
 set expandtab
-set number
+set rnu
 set autoindent
 
 "split navigations
